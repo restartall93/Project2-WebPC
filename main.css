@@ -310,8 +310,29 @@
     font-size: 17px;
 }
 
-.footer-container-2-content-2:hover{
-    color: black;
-    background-color: #0C3175;
+.footer-container-2-content-2-details:hover{
+    color: #0f5b9a;
+    background-color: white;
     cursor: pointer;
+}
+
+.box-social-ft{
+    width: 123px;
+    height: 38px;
+    display: flex;
+    align-items: center; 
+}
+
+.icon-box-social-ft{
+    width: 41px;
+    height: 100%;
+    font-size: 40px;
+}
+
+.youtube{
+    color: red;
+}
+
+.instagram{
+    color: #cd2364;
 }
