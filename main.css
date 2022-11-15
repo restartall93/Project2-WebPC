@@ -245,7 +245,39 @@
 } */
 
 #home-page-footer{
-    height: 161px;
+    height: 1000px;
     width: 100%;
-    background-color: #0f5b9a;
+}
+.footer-container-1{
+    width: 100%;
+    height: 160px;
+    background-color: blue;
+    display: flex;
+    padding: 0 8%;
+    justify-content: space-around;
+}
+
+.footer-container-1-item{
+    height: 100%;
+    width: 20%;
+    display: flex;
+    font-size: 30px;
+    color: white;
+    align-items: center;
+}
+
+.footer-content{
+    align-items: center;
+}
+
+.footer-content-1{
+    font-size: 13px;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.footer-content-2{
+    font-size: 12px;
+    margin-left: 10px;
 }
