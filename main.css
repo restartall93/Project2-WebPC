@@ -245,7 +245,7 @@
 } */
 
 #home-page-footer{
-    height: 1000px;
+    height: 1366px;
     width: 100%;
 }
 .footer-container-1{
@@ -336,3 +336,37 @@
 .instagram{
     color: #cd2364;
 }
+
+.footer-container-3{
+    width: 100%;
+    height: 89px;
+    display: flex;
+    justify-content: center;   
+    background-color: red;
+}
+
+.footer-showroom-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #0f5b9a;
+}
+
+.line-footer-1{
+    width: 80px;
+    height: 2px;
+    background-color: #0C3175;
+    margin-left: 200px;
+}
+
+.footer-container-4{
+    width: 100%;
+    height: 555px;
+    background-color: yellow;
+    padding: 0 8%;
+}
+
+.footer-showroom-content{
+    width: 100%;
+    height: 555px;
+}
+
