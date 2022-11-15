@@ -339,10 +339,11 @@
 
 .footer-container-3{
     width: 100%;
-    height: 89px;
+    height: 50px;
     display: flex;
     justify-content: center;   
     background-color: red;
+    padding: 0 8%;
 }
 
 .footer-showroom-title{
@@ -363,10 +364,11 @@
     height: 555px;
     background-color: yellow;
     padding: 0 8%;
+    display: flex;
+    justify-content: space-around;
 }
 
 .footer-showroom-content{
-    width: 100%;
-    height: 555px;
+    
 }
 
