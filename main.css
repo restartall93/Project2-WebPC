@@ -342,7 +342,6 @@
     height: 50px;
     display: flex;
     justify-content: center;   
-    background-color: red;
     padding: 0 8%;
 }
 
@@ -361,14 +360,23 @@
 
 .footer-container-4{
     width: 100%;
-    height: 555px;
+    height: 40px;
     background-color: yellow;
     padding: 0 8%;
     display: flex;
     justify-content: space-around;
 }
 
-.footer-showroom-content{
-    
+.footer-name-showroom-content{
+    align-items: center;
+}
+
+.name-showroom{
+    width: 140%;    
+    height: 100%;
+    font-size: 20px;
+    background-color: #0C3175;
+    border-radius: 15px;
+
 }
 
