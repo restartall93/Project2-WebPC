@@ -248,6 +248,7 @@
 #home-page-footer{
     height: 1366px;
     width: 100%;
+
 }
 .footer-container-1{
     width: 100%;
@@ -372,16 +373,15 @@
 }
 
 .footer-name-showroom-content{
-    width: 20%;
+    width: 29%;
     height: 100%;
     align-items: center;
     display: flex;
-    background-color: red;
     justify-content: space-between;
 }
 
 .name-showroom{
-    width: 50%;    
+    width: 150%;    
     height: 100%;   
     font-size: 20px;
     background-color: #0f5b9a;
@@ -400,5 +400,8 @@
 .footer-map-showroom{
     width: 100%;
     height: 500px;
+}
+
+.map-showroom{
 
 }
