@@ -382,4 +382,16 @@
     margin-right: 190px;
     padding: 8px 15px;
 }
+    
+.footer-container-5{
+    width: 100%;
+    height: 500px;
+    padding: 0 9%;
+    display: flex;
+}
 
+.footer-map-showroom{
+    width: 100%;
+    height: 500px;
+    background-color: red;
+}
