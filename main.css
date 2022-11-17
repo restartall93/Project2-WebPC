@@ -296,14 +296,13 @@
 .footer-content-1{
     width: 20%;
     height: 100%;
-    align-items: center;
     background-color: yellow;
 }
 
 .footer-container-2-content-1{
     font-size: 18px;
     font-weight: bold;
-    margin-right: 100px;
+
 }
 
 .line-footer{
@@ -313,7 +312,7 @@
 }
 
 .footer-container-2-content-2{
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .footer-container-2-content-2-details:hover{
@@ -366,27 +365,29 @@
 
 .footer-container-4{
     width: 100%;
-    height: 40px;
-    padding: 0 8%;
+    height: 60px;
     display: flex;
+    padding: 0 8%;
     justify-content: space-around;
 }
 
 .footer-name-showroom-content{
+    width: 20%;
+    height: 100%;
     align-items: center;
     display: flex;
-
+    background-color: red;
+    justify-content: space-between;
 }
 
 .name-showroom{
-    width: 140%;    
+    width: 50%;    
     height: 100%;   
     font-size: 20px;
     background-color: #0f5b9a;
     border-radius: 15px;
     color: white;
-    margin-right: 190px;
-    padding: 8px 15px;  
+    padding: 8px 12px;  
 }
     
 .footer-container-5{
@@ -399,6 +400,5 @@
 .footer-map-showroom{
     width: 100%;
     height: 500px;
-    background-color: red;
-    
+
 }
