@@ -295,7 +295,6 @@
 .footer-content-1{
     width: 20%;
     height: 100%;
-    background-color: red;
 }
 
 .footer-container-2-content-1{
@@ -378,13 +377,17 @@
     background-color: yellow;
 }
 
+.showroom-list-content{
+    display: flex;
+}
+
 .number-showroom{
-    width: 30px;
+    width: 40px;
     font: bold;
     font-size: 20px;
     color: #CCC;
     background-color: #FF9F00;
-    height: 30px;
+    height: 40px;
     text-align: center;
 }
 
@@ -393,7 +396,7 @@
     font-weight: bold;
     font-size: 20px;
     background-color: #0f5b9a;
-    color: #CCC;
-    height: 30px;
+    color: #CCC;    
+    height: 40px;
     border-radius: 0 10px 10px 0;
 }
