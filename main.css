@@ -399,4 +399,24 @@
     color: #CCC;    
     height: 40px;
     border-radius: 0 10px 10px 0;
+    text-align: center;
+}
+
+.icon-footer-list-contact{
+    display: flex;
+    padding-bottom: 18px;
+    align-items: center;
+}
+
+.txt-contact{
+    margin-left: 10px;
+}
+
+.btn-txt-contact{
+    color: #0f5b9a;
+}
+
+.btn-txt-contact:hover{
+    color: #0C3175;
+    cursor: pointer;
 }
