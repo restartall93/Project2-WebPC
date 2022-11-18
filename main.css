@@ -450,10 +450,34 @@
     width: 100%;
     height: 678px;
     padding: 0 10%;
-    background-color: red;
     justify-content: space-around;
+    
+    border-radius: 15px;
 }
+.homepage-body-container-1-content{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bold;
+    border: solid 1px yellow;
+}
+
 
 .list-brand{
+    display: flex;
 }
 
+.list-brand-content{
+    padding-right: 40px;
+    padding-top: 37px;
+
+}
+
+.image-brand{
+    
+}
+
+.img{
+    border: solid 1px red;
+    border-radius: 5px;
+    
+}
